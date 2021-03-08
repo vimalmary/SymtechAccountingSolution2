@@ -14,7 +14,7 @@
 
 - Stored procedure is used for saving account transaction details. Sql Transaction is used to avoid partial saving.
 
-- Methods in Model classes are documted with short descriptions.
+- Methods in Model classes are documented with short descriptions.
 
 
 ## RECOMMENDATIONS
