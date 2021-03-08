@@ -17,7 +17,7 @@
 - Methods in Model classes are documented with short descriptions.
 
 
-## RECOMMENDATIONS
+## FUTURE IMPROVEMENTS
 
 - We can use Entity Framework code first approach. In this approach we can start with creating classes rather than designing database first. 
   Then the EF API will create the database based on the domain classes and configuration.
